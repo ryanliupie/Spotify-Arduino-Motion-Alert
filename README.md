@@ -14,4 +14,4 @@
 <hr> 
 
 ## Components 
-- <h3> <a href="HardwareComponents.md"> Hardware </a> </h3>
+- <h3> <a href="/MarkdownV2/HardwareComponents.md"> Hardware </a> </h3>
