@@ -11,4 +11,7 @@
 
 <p> To solve this issue, I will use a bit of code and a bit of hardware. You can click down on each markdown to learn more ⬇ 
 </p>
+<hr> 
 
+## Components 
+- <h3> <a href="HardwareComponents.md"> Hardware </a> </h3>
