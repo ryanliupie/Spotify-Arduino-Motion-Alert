@@ -1,4 +1,4 @@
-# Spotify API + Arduino 
+# Spotify API + Arduino 🎶
 <hr>
 
 ## Welcome
